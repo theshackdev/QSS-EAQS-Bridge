@@ -1,0 +1,11 @@
+{
+  "name": "QSS_EAQS_Bridge",
+  "version_number": "1.1.1",
+  "website_url": "",
+  "description": "Makes Quick Stack - Store - Sort - Trash - Restock respect Equipment and Quick Slots 3.x: sort, stack, store and trash leave armor and quick slots alone, and sort never hides items in EAQS's hidden rows. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16",
+    "RandyKnapp-EquipmentAndQuickSlots-3.1.3"
+  ]
+}
